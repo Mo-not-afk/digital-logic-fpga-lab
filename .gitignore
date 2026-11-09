@@ -1,0 +1,8 @@
+build/
+*.vcd
+*.vvp
+*.log
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
